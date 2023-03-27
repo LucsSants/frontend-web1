@@ -1,0 +1,25 @@
+.user-wrap{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .5rem;
+  
+}
+
+.nothing {
+  width: 150px;
+}
+
+.logout-button {
+  border: none;
+  background-color: #56ADDD;
+  padding: .5rem .8rem;
+  color: #fff;
+  cursor: pointer;
+  border-radius: .5rem;
+  font-weight: 700;
+}
+
+.logout-button:hover {
+  opacity: 0.7;
+}
